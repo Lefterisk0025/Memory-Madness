@@ -1,2 +1,4 @@
 # Memory-Madness
-Cards memory game in Windows Forms
+Memory game created in Windows Forms
+
+Run MemoryMadness.exe in bin/Debug to play the game
